@@ -1,4 +1,4 @@
-# Http Status
+# HttpStatus
 
 This repository contains a JavaScript module that exports a list of HTTP status codes and their descriptions. It can be used in web development projects to handle and manage HTTP responses.
 
